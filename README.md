@@ -1,3 +1,7 @@
+![Arduino](https://img.shields.io/badge/Platform-Arduino-blue?logo=arduino)
+![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?logo=c%2B%2B)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![License](https://img.shields.io/badge/License-MIT-green)
 # Arduino Parking Assistant System
 
 ## Project Overview
